@@ -130,8 +130,5 @@ h1, h2, h3, h4, h5, h6  {
 }
 
 .footer {
-    padding-left: var(--footer-padding);
-    padding-right: var(--footer-padding);
-    padding-top: var(--footer-padding);
-    padding-bottom: var(--footer-padding);
+    padding: var(--footer-padding);
 }
