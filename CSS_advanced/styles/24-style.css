@@ -215,12 +215,12 @@ ul.row {
 }
 
 .card-services .card-title {
-    margin: auto;
+    margin: none;
 }
 
 .card-services a {
     display: block;
-    padding: 1rem;
+    padding: 2rem;
     background-color: var(--color-light-grey);
 }
 
