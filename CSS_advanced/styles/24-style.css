@@ -214,17 +214,17 @@ ul.row {
     fill: var(--text-color);
 }
 
-.card-services.card-title {
+.card-services .card-title {
     margin: auto;
 }
 
-.card-services.a {
+.card-services a {
     display: block;
     padding: 1rem;
     background-color: var(--color-light-grey);
 }
 
-.card-services.a:hover {
+.card-services a:hover {
     color: var(--color-white);
     background: var(--color-primary);
     text-decoration: none;
