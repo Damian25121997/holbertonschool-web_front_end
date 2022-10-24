@@ -193,12 +193,13 @@ h1, h2, h3, h4, h5, h6  {
 }
 
 .nav .nav-link::before {
-    content: none;
+    content: "";
     position: absolute;
     top: 0;
+    left: 0;
     width: 0;
     background-color: var(--color-white);
-    height: 20%;
+    height: 0.2rem;
 }
 
 .nav .nav-link:hover{
